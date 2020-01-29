@@ -44,5 +44,6 @@
 <role rolename="manager-gui"/>
 <role rolename="manager-script"/>
 <user username="tomcat" password="12345" roles="manager-gui,manager-script"/>
+<user username="shiva" password="12345" roles="manager-gui"/>
 		  
 </tomcat-users>
